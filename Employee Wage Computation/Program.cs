@@ -6,7 +6,7 @@ namespace Employee_Wage_Computation
     {
         static void Main(string[] args)
         {
-            EmpWageBuilder.CheckAttendance();
+            EmpWageBuilder.computeEmpWage();
         }
     }
 }
